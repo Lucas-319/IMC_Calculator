@@ -28,7 +28,7 @@ Este aplicativo calcula o Índice de Massa Corporal (IMC) com base na altura e p
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/IMC_Calculator.git
+git clone https://github.com/Lucas-319/IMC_Calculator.git
 cd IMC_Calculator
 npm install
 
