@@ -22,13 +22,3 @@ Este aplicativo calcula o Índice de Massa Corporal (IMC) com base na altura e p
 
 - React Native
 - JavaScript
-
-## Instalação
-
-Clone o repositório e instale as dependências:
-
-```bash
-git clone https://github.com/Lucas-319/IMC_Calculator.git
-cd IMC_Calculator
-npm install
-
